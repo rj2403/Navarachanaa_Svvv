@@ -1,0 +1,2 @@
+[18-Mar-2016 15:52:36 America/Chicago] PHP Warning:  require_once(database_connection.php): failed to open stream: No such file or directory in /home/navarachanaasvvv/public_html/originalRegistration/submit_old.php on line 3
+[18-Mar-2016 15:52:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'database_connection.php' (include_path='.:/opt/php54/lib/php') in /home/navarachanaasvvv/public_html/originalRegistration/submit_old.php on line 3

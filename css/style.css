@@ -1,0 +1,77 @@
+body{
+background-image: url(../banner18.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	/*Rescale based on screen width*/
+	background-size: cover;
+}
+
+.button-wrapper {
+	text-align: center;
+	margin: 25rem 0;
+}
+
+.themes{
+	float:left;
+	width: 200px;
+	height: 400px;
+	padding-left: 30px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.button {
+	border: none;
+	outline: none;
+	border-radius: 2rem;
+	padding: 1rem 4rem;
+	//font-weight: bold;
+	color: white;
+	text-align: center;
+	background:  #FF9933;
+	text-decoration: none;
+	opacity: .75;
+	font-size: 1.8rem;
+}
+.downloadButton {
+	border: none;
+	outline: none;
+	border-radius: 2rem;
+	padding: 1rem 4rem;
+	//font-weight: bold;
+	color: white;
+	text-align: center;
+
+	text-decoration: none;
+	opacity: .75;
+	font-size: 1.2rem;
+}
+.button:hover{
+	opacity: 1;
+}
+#indexSub
+{
+font-size: 20px;
+color:white;
+
+}
+
+@media screen and (min-width: 50px) {
+#indexSub{
+font-size: 10px;
+font-weight:bold;
+}
+}
+
+@media screen and (min-width: 400px) {
+#indexSub{
+font-size: 15px;
+}
+}
+
+@media screen and (min-width: 500px) {
+#indexSub{
+font-size: 20px;
+}
+}

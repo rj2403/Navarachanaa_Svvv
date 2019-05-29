@@ -1,0 +1,2 @@
+AuthName "admin"
+AuthUserFile "/home/navarachanaasvvv/.htpasswds/public_html/passwd"

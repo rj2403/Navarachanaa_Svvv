@@ -1,0 +1,199 @@
+@import "http://webfonts.ru/import/notcourier.css";
+
+body{   );
+}
+
+
+input{
+  display:none;
+}
+.lower label {
+
+}
+
+.lower label:hover{
+  cursor:pointer;
+}
+
+.overlay{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	bottom:0;
+	right:0;
+	overflow:auto;
+	background: #00193c ;
+	z-index:9999;
+}
+
+.overlay label{
+	width: 60px;
+	height:59px;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	background: url('http://tympanus.net/Development/FullscreenOverlayStyles/img/cross.png');
+	z-index: 100;
+  cursor:pointer;
+}
+
+.overlay nav {
+	text-align:left;
+	position: relative;
+	top: 13%;
+	height: 20%;
+	font-size: 14px;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.overlay ul {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	display: inline-block ;
+	height: 5%;
+	position: relative;
+}
+
+.overlay ul li {
+	display: block;
+	height: 30%;
+
+	min-height: 30px;
+}
+
+.overlay ul li a {
+
+	display: block;
+	color: white;
+  text-decoration:none;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+
+}
+
+.overlay ul li a:hover,
+.overlay ul li a:focus {
+	color: #849368;
+}
+
+.lower~.overlay-hugeinc{
+	opacity: 0;
+	visibility: hidden;
+	-webkit-transition: opacity 0.5s, visibility 0s 0.5s;
+	transition: opacity 0.5s, visibility 0s 0.5s;
+  color: white;
+}
+
+#op:checked~.overlay-hugeinc{
+	opacity: 1;
+	visibility: visible;
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+#op1:checked~.overlay-hugeinc{
+	opacity: 1;
+	visibility: visible;
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+#op2:checked~.overlay-hugeinc{
+	opacity: 1;
+	visibility: visible;
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+#op3:checked~.overlay-hugeinc{
+	opacity: 1;
+	visibility: visible;
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+#op4:checked~.overlay-hugeinc{
+	opacity: 1;
+	visibility: visible;
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+#op5:checked~.overlay-hugeinc{
+	opacity: 1;
+	visibility: visible;
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+
+.overlay-hugeinc nav {
+	-moz-perspective: 300px;
+}
+
+.overlay-hugeinc nav ul {
+	opacity: 0.4;
+	-webkit-transform: translateY(-25%) rotateX(35deg);
+	transform: translateY(-25%) rotateX(35deg);
+	-webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+	transition: transform 0.5s, opacity 0.5s;
+}
+
+#op:checked~.overlay-hugeinc nav ul {
+	opacity: 1;
+	-webkit-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+}
+
+#op:not(:checked)~.overlay-hugeinc nav ul {
+	-webkit-transform: translateY(25%) rotateX(-35deg);
+	transform: translateY(25%) rotateX(-35deg);
+}
+#op1:checked~.overlay-hugeinc nav ul {
+	opacity: 1;
+	-webkit-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+}
+
+#op1:not(:checked)~.overlay-hugeinc nav ul {
+	-webkit-transform: translateY(25%) rotateX(-35deg);
+	transform: translateY(25%) rotateX(-35deg);
+}
+#op2:checked~.overlay-hugeinc nav ul {
+	opacity: 1;
+	-webkit-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+}
+
+#op2:not(:checked)~.overlay-hugeinc nav ul {
+	-webkit-transform: translateY(25%) rotateX(-35deg);
+	transform: translateY(25%) rotateX(-35deg);
+}
+#op3:checked~.overlay-hugeinc nav ul {
+	opacity: 1;
+	-webkit-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+}
+
+#op3:not(:checked)~.overlay-hugeinc nav ul {
+	-webkit-transform: translateY(25%) rotateX(-35deg);
+	transform: translateY(25%) rotateX(-35deg);
+}
+#op4:checked~.overlay-hugeinc nav ul {
+	opacity: 1;
+	-webkit-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+}
+
+#op4:not(:checked)~.overlay-hugeinc nav ul {
+	-webkit-transform: translateY(25%) rotateX(-35deg);
+	transform: translateY(25%) rotateX(-35deg);
+}
+#op5:checked~.overlay-hugeinc nav ul {
+	opacity: 1;
+	-webkit-transform: rotateX(0deg);
+	transform: rotateX(0deg);
+}
+
+#op5:not(:checked)~.overlay-hugeinc nav ul {
+	-webkit-transform: translateY(25%) rotateX(-35deg);
+	transform: translateY(25%) rotateX(-35deg);
+}

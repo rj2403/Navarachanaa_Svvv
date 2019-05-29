@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="description" content="Navarachanaa ">
+
+        <meta name="author" content="">
+
+        <title>Navarachanaa | SVVV</title>
+
+		<!-- Mobile Specific Meta
+		================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/x-icon" href="img/newFav.png" />
+
+		<!-- CSS
+		================================================== -->
+		<!-- Fontawesome Icon font -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+		<!-- bootstrap.min css -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- Animate.css -->
+        <link rel="stylesheet" href="css/animate.css">
+		<!-- Owl Carousel -->
+        <link rel="stylesheet" href="css/owl.carousel.css">
+		<!-- Grid Component css -->
+        <link rel="stylesheet" href="css/component.css">
+		<!-- Slit Slider css -->
+        <link rel="stylesheet" href="css/slit-slider.css">
+		<!-- Main Stylesheet -->
+        <link rel="stylesheet" href="css/main.css">
+		<!-- Media Queries -->
+        <link rel="stylesheet" href="css/media-queries.css">
+
+		<!--
+		Google Font
+		=========================== -->
+
+		<!-- Oswald / Title Font -->
+		<link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+		<!-- Ubuntu / Body Font -->
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,300' rel='stylesheet' type='text/css'>
+
+		<!-- Modernizer Script for old Browsers -->
+        <script src="js/modernizr-2.6.2.min.js"></script>
+
+
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-54152927-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+
+    </head>
+
+    <body id="body" class="text-size">
+	    <!--
+	    Start Preloader
+	    ==================================== -->
+
+        <!--
+        End Preloader
+        ==================================== -->
+
+        <!--
+        Welcome Slider
+        ==================================== -->
+
+		<!--/#home section-->
+
+        <!--
+        Fixed Navigation
+        ==================================== -->
+        <header id="navigation" class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <!-- responsive nav button -->
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+					<!-- /responsive nav button -->
+
+					<!-- logo -->
+                    <a class="navbar-brand" href="index.html">
+						<h1 id="logo">
+							<img src="img/logo-navarachanaa17.png" alt="Navarachanaa 2018 | SVVV" />
+						</h1>
+					</a>
+					<!-- /logo -->
+                </div>
+
+				<!-- main nav -->
+                <nav class="collapse navbar-collapse navbar-right" role="Navigation">
+                    <ul id="nav" class="nav navbar-nav">
+                        <li ><a href="index.html">Home</a></li>
+                        <li><a href="index.html#about">About</a></li>
+                        <li><a href="index.html#details">Details</a></li>
+                        <li><a href="index.html#prizesScroll">Prizes</a></li>
+                        <li><a href="index.html#services">Themes</a></li>
+
+                        <li><a href="index.html#showcase">Sponsors</a></li>
+
+
+                        <li><a href="index.html#contact-us">Contact</a></li>
+			<!-- <li><a href="https://play.google.com/store/apps/details?id=competition.svvv.navarachanaa">Android App</a></li> -->
+
+
+			<li ><a href="registration.php">Registration</a></li>
+                    </ul>
+                </nav>
+				<!-- /main nav -->
+
+            </div>
+        </header>
+        <!--
+        End Fixed Navigation
+        ==================================== -->
+
+
+
+
+
+<section>
+			<div class="container">
+				<div class="row">
+
+					<!-- features item -->
+					<div id="features">
+						<div class="item">
+
+							<div class="features-item">
+
+
+								<br><br>
+								<!-- features content -->
+
+								<div class="col-md-12 feature-desc wow fadeInUp about-content text-left" data-wow-duration="500ms" data-wow-delay="300ms" >
+
+									<div class="title text-center wow fadeIn" data-wow-duration="1500ms" align="center">
+										<h2><span id="about" class="color">Registration is closed</span></h2>
+									<div class="border"></div>
+								</div>
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+							</div>
+
+
+								<!-- /features content -->
+
+							</div>
+						</div>
+
+
+				</div> 		<!-- End row -->
+			</div>   	<!-- End container -->
+		</section>   <!-- End section -->
+
+
+
+
+
+
+
+
+
+		<!-- end Contact Area
+		========================================== -->
+
+		<footer id="footer" class="bg-one">
+			<div class="container">
+			    <div class="row wow fadeInUp" data-wow-duration="500ms">
+
+					<div class="col-lg-12">
+
+						<!-- Footer Social Links -->
+						<div class="social-icon">
+							<ul>
+								<li><a href="https://www.facebook.com/navarachanaa/"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://twitter.com/navarachanaa16"><i class="fa fa-twitter"></i></a></li>
+
+								<li><a href="https://www.youtube.com/channel/UCg5T8YbK7VpDuSKAtkCUIPg"><i class="fa fa-youtube"></i></a></li>
+								<li><a href="https://www.linkedin.com/in/navarachanaa2016"><i class="fa fa-linkedin"></i></a></li>
+								<li><a href="https://www.instagram.com/navarachanaa2016/"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="https://in.pinterest.com/navarachanaa16/"><i class="fa fa-pinterest"></i></a></li>
+							</ul>
+						</div>
+						<!--/. End Footer Social Links -->
+
+
+
+					</div> <!-- end col lg 12 -->
+				</div> <!-- end row -->
+			</div> <!-- end container -->
+		</footer> <!-- end footer -->
+
+		<!-- Back to Top
+		============================== -->
+		<a href="javascript:;" id="scrollUp">
+			<i class="fa fa-angle-up fa-2x"></i>
+		</a>
+
+		<!-- end Footer Area
+		========================================== -->
+
+		<div id="copyright_svvv"><p id="right"><a href="http://www.svvv.edu.in/">Shri Vaishnav Vidyapeeth Vishwavidyalaya  Indore</a></p></div>
+
+		<!--
+		Essential Scripts
+		=====================================-->
+
+		<!-- Main jQuery -->
+		<script src="js/jquery-1.11.0.min.js"></script>
+		<!-- Bootstrap 3.1 -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- Slitslider -->
+		<script src="js/jquery.slitslider.js"></script>
+		<script src="js/jquery.ba-cond.min.js"></script>
+		<!-- Parallax -->
+		<script src="js/jquery.parallax-1.1.3.js"></script>
+		<!-- Owl Carousel -->
+		<script src="js/owl.carousel.min.js"></script>
+		<!-- Portfolio Filtering -->
+		<script src="js/jquery.mixitup.min.js"></script>
+		<!-- Custom Scrollbar -->
+		<script src="js/jquery.nicescroll.min.js"></script>
+		<!-- Jappear js -->
+		<script src="js/jquery.appear.js"></script>
+		<!-- Pie Chart -->
+		<script src="js/easyPieChart.js"></script>
+		<!-- jQuery Easing -->
+		<script src="js/jquery.easing-1.3.pack.js"></script>
+		<!-- tweetie.min -->
+		<script src="js/tweetie.min.js"></script>
+		<!-- Google Map API -->
+		<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+		<!-- Highlight menu item -->
+		<script src="js/jquery.nav.js"></script>
+		<!-- Sticky Nav -->
+		<script src="js/jquery.sticky.js"></script>
+		<!-- Number Counter Script -->
+		<script src="js/jquery.countTo.js"></script>
+		<!-- wow.min Script -->
+		<script src="js/wow.min.js"></script>
+		<!-- For video responsive -->
+		<script src="js/jquery.fitvids.js"></script>
+		<!-- Grid js -->
+		<script src="js/grid.js"></script>
+		<!-- Custom js -->
+		<script src="js/custom.js"></script>
+
+    </body>
+</html>
